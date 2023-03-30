@@ -5,3 +5,7 @@ INCLUDE ZGCO_SELECT_1_scr.
 INCLUDE ZGCO_SELECT_1_f01.
 
 * Bu ornekte tum tabloyu gostermek istersen select options ve parameters kullanmaman gerekir
+
+* git add .
+* git commit -m 'first commit'
+* git push -u origin main
